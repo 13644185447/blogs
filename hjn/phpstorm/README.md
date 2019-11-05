@@ -9,29 +9,20 @@
 
 * 1.全屏幕快捷键
 
-    ```javascript
+    ```
       Keymap>Main menu>View>Toggle Distraction Free mode 为 f11健
       Keymap>Main menu>View>Toggle Full Screen mode 为 alt f11健
     ```
 
 * 2.`Keymap>Tool Windows>Database` 数据库管理 `alt+shift+d`
-
 * 3.`Terminal` 快捷键就使用默认的 `alt+shift+t`
-
 * 4.`Remote Host` 远程主机面板 `alt+shift+h`
-
 * 5.`Run Command` 切换命令控制台 `alt+shift+m`
-
 * 6.`File Structure` 查找文件定义的方法 `alt+shift+j`
-
 * 7.`Navigate>File` 查找文件 `alt+p`
-
 * 8.`Recent Files` 查找文件定义的方法 `alt+e`
-
 * 9.`Editor Tabs>Close` 关闭文件 `alt+w`
-
 * 10.`File>Save All` 保存全部 `alt+s`
-
 * 11.`Code>Generate` 快捷创建 `alt+n`
 
 ##关闭angular提示
