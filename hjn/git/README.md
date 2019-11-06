@@ -6,8 +6,8 @@
 第一个要配置的是你个人的用户名称和电子邮件地址。这两条配置很重要，每次 Git 提交时都会引用这两条信息，说明是谁提交了更新，所以会随更新内容一起被永久纳入历史记录：
 
 ```
-git config --global user.email "16344185447@163.com"
-git config --global user.name "16344185447@163.com"
+git config --global user.email "13644185447@163.com"
+git config --global user.name "13644185447@163.com"
 ```
 ## 常用命令
 
@@ -146,6 +146,7 @@ git push -u origin master
 4.本地ask分支关联远程分支并推送 `git push --set-upstream origin ask`
 ## 自动部署
 GitHub设置 `WebHook`
+
 ![muhua](https://qqadapt.qpic.cn/txdocpic/0/de7721392447f243e222eaab5bf1efe6/1600?_type=png)
 
 # 同步脚本
