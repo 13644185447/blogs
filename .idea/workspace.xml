@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb31a1e-a888-4338-99d0-30a6575fa866" name="Default Changelist" comment="">
+    <list default="true" id="8cb31a1e-a888-4338-99d0-30a6575fa866" name="Default Changelist" comment="phpstorm README.md 增加ftp &#10;git README.md 增加 windows大小写敏感">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hjn/git/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hjn/git/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hjn/phpstorm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hjn/phpstorm/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,20 +35,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hjn/phpstorm/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="590">
+                <caret line="106" column="52" lean-forward="true" selection-start-line="106" selection-start-column="52" selection-end-line="106" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/hjn/git/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="410">
-                <caret line="146" column="7" lean-forward="true" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
+              <first_editor relative-caret-position="603">
+                <caret line="148" column="7" lean-forward="true" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,9 +87,9 @@
         <option value="$PROJECT_DIR$/resources/sass/app.scss" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/hjn/phpstorm/README.md" />
         <option value="F:/zhuomian/README.md" />
         <option value="$PROJECT_DIR$/server.php" />
+        <option value="$PROJECT_DIR$/hjn/phpstorm/README.md" />
         <option value="$PROJECT_DIR$/hjn/git/README.md" />
       </list>
     </option>
@@ -215,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +235,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +248,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -307,7 +299,11 @@
       <workItem from="1572937398546" duration="5202000" />
       <workItem from="1573021820268" duration="1462000" />
       <workItem from="1573023302213" duration="150000" />
-      <workItem from="1573023467314" duration="1059000" />
+      <workItem from="1573023467314" duration="2519000" />
+      <workItem from="1573115194853" duration="602000" />
+      <workItem from="1573288352869" duration="654000" />
+      <workItem from="1573289101898" duration="202000" />
+      <workItem from="1573289323679" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="20191104phpstorm教程">
       <created>1572855839578</created>
@@ -337,17 +333,31 @@
       <option name="project" value="LOCAL" />
       <updated>1573024418199</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Git README.md修改">
+      <created>1573024531916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573024531916</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Phpstorm README.md修改">
+      <created>1573024738848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573024738848</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29079000" />
+    <option name="totallyTimeSpent" value="32438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16577825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09328358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -366,7 +376,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.14072494" />
+      <window_info anchor="right" id="Database" order="3" weight="0.075159915" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +389,8 @@
     <MESSAGE value="20191104phpstorm教程" />
     <MESSAGE value="readme.md修改" />
     <MESSAGE value="Git README.md修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git README.md修改" />
+    <MESSAGE value="Phpstorm README.md修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phpstorm README.md修改" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.env.example" />
@@ -534,26 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/zhuomian/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="515">
-            <caret line="146" column="6" selection-start-line="146" selection-start-column="6" selection-end-line="146" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hjn/phpstorm/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="18" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/zhuomian/README.md" />
     <entry file="file://$PROJECT_DIR$/server.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -571,11 +563,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hjn/phpstorm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="590">
+            <caret line="106" column="52" lean-forward="true" selection-start-line="106" selection-start-column="52" selection-end-line="106" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hjn/git/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="410">
-            <caret line="146" column="7" lean-forward="true" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
+          <first_editor relative-caret-position="603">
+            <caret line="148" column="7" lean-forward="true" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>

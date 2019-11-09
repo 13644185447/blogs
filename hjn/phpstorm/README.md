@@ -98,6 +98,16 @@ laravel-ide-helper 用于实现方便的代码提示功能，详细查看插件�
 ![mahua](https://qqadapt.qpic.cn/txdocpic/0/ff3385b1da66522f2ea92c1528e7297a/1600?_type=png)
 ![mahua](https://qqadapt.qpic.cn/txdocpic/0/a5186c5a17ad410ae7a4f8b8265ff274/1600?_type=png)
 
+## FTP
+
+![mahua](https://qqadapt.qpic.cn/txdocpic/0/48f339cc4a26bc76d33c4a099f148f00/1600?_type=png)
+![mahua](https://qqadapt.qpic.cn/txdocpic/0/4adef32dd1504e882a6802f15c4d94c2/1600?_type=png)
+![mahua](https://qqadapt.qpic.cn/txdocpic/0/948305473a1a7cb623b576ced845ccda/1600?_type=png)
+
+本地文件修改后同步到ftp的设置。选择菜单 `tools > deployment > options`
+
+![mahua](https://qqadapt.qpic.cn/txdocpic/0/016c30b8a51dc34ceb1175ebf86c86b3/1600?_type=png)
+
 ## Git
 
 phpstorm很好的内置支持版本库管理。选择菜单 `VCS>Enable Version Control Integration`

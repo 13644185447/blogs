@@ -144,6 +144,8 @@ git push -u origin master
 3.删除远程ask分支  `git push origin --delete ask`
 
 4.本地ask分支关联远程分支并推送 `git push --set-upstream origin ask`
+
+5.windows有时可能需要设置大小写敏感  `git config --global core.ignorecase false`
 ## 自动部署
 GitHub设置 `WebHook`
 
