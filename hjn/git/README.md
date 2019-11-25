@@ -123,6 +123,13 @@ ssh-keygen -t rsa
 ![muhua](https://qqadapt.qpic.cn/txdocpic/0/94152d5d684863bebba0537138a85917/1600?_type=png)
 点击 `New SSH key` 按钮，添加上面生成的 `id_rsa.pub` 公钥内容
 
+## 下载项目
+初始化一个repo `git init` 
+
+把xx设置为第一步创建的repo的origin `git remote add origin http://xxx.git` 
+
+获取origin的分支(我获取的是master) `git pull origin master` 
+
 ## pull
 拉取远程主机某个分支的更新，再与本地的指定分支合并。
 
